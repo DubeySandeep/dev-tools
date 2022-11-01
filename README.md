@@ -13,7 +13,7 @@ Tools for developing oppia web project.
 
     ```
     git clone git@github.com:DubeySandeep/dev-tools.git
-    git clone git@github.com:<your-username>/dev-tools.git
+    git clone git@github.com:<your-username>/oppia.git
     ```
 - Run the oppia web server
 
